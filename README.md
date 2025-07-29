@@ -213,7 +213,7 @@ At each timestep for each simulation, the asset prices evolve via GBM, and we co
 
 ## Example Output
 
-![Portfolio Simulation Output](https://github.com/batxdev0/quantiative-risk-simulations/blob/main/gbm_portfolio_montecarlo.png)
+![Portfolio Simulation Output](https://github.com/batxdev0/quantiative-risk-simulations/blob/main/gbm_portfolio_montecarlo.py.png)
 
 ---
 
