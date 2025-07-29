@@ -101,7 +101,7 @@ Earlier, We simulate a single stock path — but the framework supports scaling 
 
 ## Example Output
 
-![Sample Monte Carlo Simulation Output](https://github.com/batxdev0/quantiative-risk-simulations/blob/main/Monte_Carlo_GBM.png)
+![Sample Monte Carlo Simulation Output](https://github.com/batxdev0/quantiative-risk-simulations/blob/main/Monte_Carlo_GBM.py.png)
 ---
 
 ## How it works
