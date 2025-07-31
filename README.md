@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I’m Batu — an incoming Computer Engineering student at Politecnico di Torino. This project investigates how mathematical models can be used to simulate stock price movements, evaluate portfolio performance, and quantify financial risk. It starts with Geometric Brownian Motion (GBM) to model individual asset trajectories, then scales to Monte Carlo simulations across thousands of possible outcomes. The analysis concludes with portfolio-level risk assessment, incorporating correlation structures and key metrics such as Value at Risk (VaR) and probabilit of loss. Throughout, the project showcases methods commonly applied in real-world quantitative finance and trading.
+Hi, I’m Batu — an Computer Engineering student at Politecnico di Torino. This project investigates how mathematical models can be used to simulate stock price movements, evaluate portfolio performance, and quantify financial risk. It starts with Geometric Brownian Motion (GBM) to model individual asset trajectories, then scales to Monte Carlo simulations across thousands of possible outcomes. The analysis concludes with portfolio-level risk assessment, incorporating correlation structures and key metrics such as Value at Risk (VaR) and probabilit of loss. Throughout, the project showcases methods commonly applied in real-world quantitative finance and trading.
 
 ---
 
