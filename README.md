@@ -2,10 +2,6 @@
 
 ---
 
-Hi, I’m Batu — an Computer Engineering student at Politecnico di Torino. This project investigates how mathematical models can be used to simulate stock price movements, evaluate portfolio performance, and quantify financial risk. It starts with Geometric Brownian Motion (GBM) to model individual asset trajectories, then scales to Monte Carlo simulations across thousands of possible outcomes. The analysis concludes with portfolio-level risk assessment, incorporating correlation structures and key metrics such as Value at Risk (VaR) and probabilit of loss. Throughout, the project showcases methods commonly applied in real-world quantitative finance and trading.
-
----
-
 ## What is Geometric Brownian Motion?
 
 Geometric Brownian Motion (GBM) is a stochastic process commonly used to model the evolution of stock prices over time. It operates under the assumptions of:
@@ -261,3 +257,4 @@ You can check out the full simulation code [here](https://github.com/batxdev0/qu
 * [GBM Video: Dummy R](https://www.youtube.com/watch?app=desktop&v=5A2iNvpAv1w%5C)
 * [Monte Carlo Video: MarbleScience](https://www.youtube.com/watch?v=7ESK5SaP-bc)
 * [Monte Carlo Video: IBM Technology](https://www.youtube.com/watch?v=7TqhmX92P6U)
+
